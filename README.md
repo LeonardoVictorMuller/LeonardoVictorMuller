@@ -1,7 +1,7 @@
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovictormuller&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovictormuller&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovictormuller&layout=compact&theme=radical)
 
  ## Tecnologies
   <div style="display: inline_block" align="center"><br>
