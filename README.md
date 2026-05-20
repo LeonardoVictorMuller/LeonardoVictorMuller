@@ -1,14 +1,46 @@
+# Olá, eu sou o Leonardo Victor Müller! 👋
 
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardovictormuller&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovictormuller&layout=compact&theme=radical)
+### 🚀 Desenvolvedor & Entusiasta de Tecnologia
 
- ## Tecnologies
-  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" src="https://img.shields.io/badge/Arduino_IDE-00979D?" style=for-the-badge&logo=arduino&logoColor="white"/>
-  <img align="center" alt="Python" height="50" width="50"src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" />
-  
+Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos, estudos e experimentos no mundo do desenvolvimento de software.
 
+---
+
+## 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardoVictorMuller&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovictormuller&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px" />
+</p>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as tecnologias que utilizo no meu dia a dia e nos meus projetos:
+
+### 💻 Linguagens & Web
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+### ⚙️ Ambiente & Ferramentas Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+* **GitHub:** [leonardovictormuller](https://github.com/leonardovictormuller)
+
+---
+
+<p align="center">🎨 _README atualizado para o melhor estilo Dark/Radical_</p>
