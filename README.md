@@ -51,7 +51,7 @@
   <a href="mailto:leonardomuller011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/leonardo-victor-muller-de-morais-59a25b283?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/in/leonardo-victor-muller-de-morais-59a25b283?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
